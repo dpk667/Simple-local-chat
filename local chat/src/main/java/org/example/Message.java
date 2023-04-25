@@ -1,5 +1,6 @@
 package org.example;
 
+
 import java.io.Serializable;
 
 public class Message implements Serializable {
@@ -25,4 +26,3 @@ public class Message implements Serializable {
         return type;
     }
 }
-
